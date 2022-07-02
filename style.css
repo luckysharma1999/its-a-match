@@ -1,0 +1,28 @@
+h3 {
+    text-align: center;
+    font-size:40px;
+}
+body{
+    background-color: blanchedalmond;
+   
+}
+
+.grid {
+    display: flex ;
+    margin-left: auto;
+    margin-right: auto;
+    width:  920px;
+    height: 1020px;
+    flex-wrap: wrap;
+    
+   
+    
+}
+
+img{
+    
+    
+    border: solid black;
+}
+
+
